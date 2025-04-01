@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Krishna (4-krishna)
+# 👋 Hey there! I'm Krishna
 
 ![Profile Views](https://komarev.com/ghpvc/?username=4-krishna&label=Profile+Views&color=blue&style=flat)
 
