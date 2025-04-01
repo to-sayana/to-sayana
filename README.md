@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hey there! I'm Krishna (4-krishna)
 
-<!--
-**4-krishna/4-krishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=4-krishna&label=Profile+Views&color=blue&style=flat)
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+- 🌐 Passionate about **Cybersecurity & Ethical Hacking** 🌐  
+- 🎨 UI/UX Enthusiast | **Exploring Web Development**  
+- 📚 Always **learning & experimenting** with new ideas  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+
+## 📈 GitHub Stats  
+![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=4-krishna&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4-krishna&layout=compact&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4-krishna&theme=dark)  
+
+## 🏆 GitHub Trophies  
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=4-krishna&theme=onedark&margin-w=15)
+
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/4krishna/)  
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/4krishna)  
+
+---
+
+
+
+
+
+
+
+🚀 Always excited to **create, innovate, and build**!  
