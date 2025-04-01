@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=4-krishna&label=Profile+Views&color=blue&style=flat)
 
 ## 🚀 About Me  
-- 🌐 Passionate about **Cybersecurity & Ethical Hacking** 🌐  
+- 🌐 Passionate about **Cybersecurity & Ethical Hacking** 
 - 🎨 UI/UX Enthusiast | **Exploring Web Development**  
 - 📚 Always **learning & experimenting** with new ideas  
 
