@@ -12,6 +12,7 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 
 ## 📈 GitHub Stats  
 ![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=4-krishna&show_icons=true&theme=dark)  
@@ -19,7 +20,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4-krishna&theme=dark)  
 
 ## 🏆 GitHub Trophies  
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=4-krishna&theme=onedark&margin-w=15)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=4-krishna&theme=onedark&margin-w=15)  
 
 
 ## 📫 Connect with Me  
