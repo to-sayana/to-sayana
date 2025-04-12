@@ -1,30 +1,75 @@
-# 👋 Hey there! I'm Krishna
+<div align="center">
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" />
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=4-krishna&label=Profile+Views&color=blue&style=flat)
+###
 
-## 🚀 About Me  
-- 🌐 Passionate about **Cybersecurity & Ethical Hacking**  
-- 🎨 UI/UX Enthusiast | **Exploring Web Development**  
-- 📚 Always **learning & experimenting** with new ideas  
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo" />
+</div>
 
-## 🔧 Tech Stack  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+###
 
-## 📈 GitHub Stats    
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4-krishna&layout=compact&theme=dark&t=1)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4-krishna&theme=dark&t=1)  
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=4-krishna.4-krishna&" />
+</div>
 
-## 🏆 GitHub Trophies  
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=4-krishna&theme=onedark&margin-w=15&t=1)  
+###
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/4krishna/)  
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/4krishna)  
+<h1 align="center">Hey there 👋 I'm Krishna</h1>
+
+###
+
+<h3 align="left">👨‍💻 About Me</h3>
+
+<p align="left">
+🔐 Cybersecurity & Ethical Hacking Enthusiast<br>
+🎨 UI/UX Designer | Learning Web Dev<br>
+📚 Exploring tech, always building stuff!
+</p>
+
+###
+
+<h3 align="left">🧰 Tech Stack</h3>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</div>
+
+###
 
 
+<h3 align="center">🔥 GitHub Streak</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=4-krishna&theme=dark&hide_border=false&count_private=true&token=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" height="200" />
+</div>
+
+###
+
+
+<h3 align="left">📫 Connect with Me</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/4krishna/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.behance.net/4krishna" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+</p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/4-krishna/4-krishna/output/snake.svg" alt="Snake animation" />
+
+---
 
 🚀 Always excited to **create, innovate, and build**!
