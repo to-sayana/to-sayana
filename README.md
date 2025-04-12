@@ -47,7 +47,7 @@
 <h3 align="center">🔥 GitHub Streak</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=4-krishna&theme=dark&hide_border=false&count_private=true&token=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" height="200" />
+  <img src="https://streak-stats.demolab.com/?user=4-krishna&theme=midnight-purple&hide_border=false&count_private=true" height="200" />
 </div>
 
 ###
