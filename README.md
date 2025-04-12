@@ -14,8 +14,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 
-## 📈 GitHub Stats  
-![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=4-krishna&show_icons=true&theme=dark&t=1)  
+## 📈 GitHub Stats    
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4-krishna&layout=compact&theme=dark&t=1)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4-krishna&theme=dark&t=1)  
 
