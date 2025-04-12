@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=4-krishna&label=Profile+Views&color=blue&style=flat)
 
 ## 🚀 About Me  
-- 🌐 Passionate about **Cybersecurity & Ethical Hacking** 
+- 🌐 Passionate about **Cybersecurity & Ethical Hacking**  
 - 🎨 UI/UX Enthusiast | **Exploring Web Development**  
 - 📚 Always **learning & experimenting** with new ideas  
 
@@ -15,24 +15,17 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 
 ## 📈 GitHub Stats  
-![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=4-krishna&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4-krishna&layout=compact&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4-krishna&theme=dark)  
+![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=4-krishna&show_icons=true&theme=dark&t=1)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4-krishna&layout=compact&theme=dark&t=1)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4-krishna&theme=dark&t=1)  
 
 ## 🏆 GitHub Trophies  
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=4-krishna&theme=onedark&margin-w=15)  
-
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=4-krishna&theme=onedark&margin-w=15&t=1)  
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/4krishna/)  
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/4krishna)  
 
----
 
 
-
-
-
-
-
-🚀 Always excited to **create, innovate, and build**!  
+🚀 Always excited to **create, innovate, and build**!
