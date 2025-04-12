@@ -53,19 +53,6 @@
 ###
 
 
-<h3 align="left">📫 Connect with Me</h3>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/4krishna/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.behance.net/4krishna" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
-  </a>
-</p>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/4-krishna/4-krishna/output/snake.svg" alt="Snake animation" />
