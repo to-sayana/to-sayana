@@ -17,7 +17,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋 I'm Krishna</h1>
+<h1 align="center">Hey there 👋 I'm Sayana</h1>
 
 ###
 
