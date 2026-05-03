@@ -24,10 +24,10 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-👩‍💻 UI/UX Designer crafting minimal and impactful designs  
-🎨 Passionate about clean layouts and smooth user experiences  
-🚀 Learning Web Development and building real-world projects  
-💡 Turning ideas into elegant digital solutions
+👩‍💻 UI/UX Designer crafting minimal and impactful designs <br>
+🎨 Passionate about clean layouts and smooth user experience <br>  
+🚀 Learning Web Development and building real-world projects  <br>
+💡 Turning ideas into elegant digital solutions<br>
 </p>
 
 ###
