@@ -24,9 +24,10 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-🔐 Cybersecurity & Ethical Hacking Enthusiast<br>
-🎨 UI/UX Designer | Learning Web Dev<br>
-📚 Exploring tech, always building stuff!
+👩‍💻 UI/UX Designer crafting minimal and impactful designs  
+🎨 Passionate about clean layouts and smooth user experiences  
+🚀 Learning Web Development and building real-world projects  
+💡 Turning ideas into elegant digital solutions
 </p>
 
 ###
